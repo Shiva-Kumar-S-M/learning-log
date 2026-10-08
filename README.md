@@ -8,6 +8,12 @@ Welcome to my personal AI engineering learning log! This repository documents my
 - **RAG & Vector Search**: Hybrid retrieval, chunking strategies, embeddings, and reranking.
 - **Evaluation & Alignment**: LLM-as-a-judge, benchmark suites, and latency/cost optimization.
 
+## Quick Navigation
+| Day | Topic | Status | Notes Link |
+| :--- | :--- | :--- | :--- |
+| **Day 1** | LLM APIs & Structured Outputs | Completed | [Day 1 Notes](notes/day-01-llm-apis.md) |
+| **Day 2** | Agentic Workflows & MCP | Completed | [Day 2 Notes](notes/day-02-agentic-workflows-mcp.md) |
+
 ## 30-Day Engineering Roadmap
 - [x] **Day 1**: LLM APIs — Function Calling, Structured Outputs & Streaming
 - [x] **Day 2**: Agentic Workflows & Model Context Protocol (MCP)
